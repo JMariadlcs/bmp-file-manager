@@ -1,0 +1,428 @@
+Reunión celebrada el 12/11/2019 a las 09:00 en Leganés
+
+Asisten:
+  - Jose María de la Cruz Sánchez		
+  - Iosif Mondoc 
+  - Patricia Paredes Martín
+  - Francisco Atalaya Gómez
+
+Ausentes:
+  - Nobody
+
+Moderador: Jose María de la Cruz Sánchez
+Escribe el acta:	Jose María de la Cruz Sánchez
+
+Orden del día:
+ 1.- Plan how are we going to divide the proyect
+ 2.- 
+ 3.-
+
+================================================================================
+
+Acciones:
+
+1.- Plan how are we going to divide the proyect
+
+
+Reunión celebrada el 13/11/2019 a las 09:00 en Leganés
+
+Asisten:
+  - Jose María de la Cruz Sánchez		
+  - Iosif Mondoc 
+  - Patricia Paredes Martín
+  - Francisco Atalaya Gómez
+
+Ausentes:
+  - Nobody
+
+Moderador: Jose María de la Cruz Sánchez
+Escribe el acta:	Jose María de la Cruz Sánchez
+
+Orden del día:
+ 1.- Start implementing BMP version
+ 2.- 
+ 3.-
+
+================================================================================
+
+Acciones:
+
+1.- Start implementing BMP version
+
+
+Reunión celebrada el 15/11/2019 a las 09:00 en Leganés
+
+Asisten:
+  - Jose María de la Cruz Sánchez		
+  - Iosif Mondoc 
+  - Patricia Paredes Martín
+  - Francisco Atalaya Gómez
+
+Ausentes:
+  - Nobody
+
+Moderador: Jose María de la Cruz Sánchez
+Escribe el acta:	Jose María de la Cruz Sánchez
+
+Orden del día:
+ 1.- Continue implementing BMP version
+ 2.- 
+ 3.-
+
+================================================================================
+
+Acciones:
+
+1.- Continue implementing BMP version
+
+
+Reunión celebrada el 19/11/2019 a las 09:00 en Leganés
+
+Asisten:
+  - Jose María de la Cruz Sánchez		
+  - Iosif Mondoc 
+  - Patricia Paredes Martín
+  - Francisco Atalaya Gómez
+
+Ausentes:
+  - Nobody
+
+Moderador: Jose María de la Cruz Sánchez
+Escribe el acta:	Jose María de la Cruz Sánchez
+
+Orden del día:
+ 1.- We divide each functionality 
+ 2.- 
+ 3.-
+
+================================================================================
+
+Acciones:
+
+1.- We divide each functionality
+
+Reunión celebrada el 22/11/2019 a las 09:00 en Leganés
+
+Asisten:
+  - Jose María de la Cruz Sánchez		
+  - Iosif Mondoc 
+  - Patricia Paredes Martín
+  - Francisco Atalaya Gómez
+
+Ausentes:
+  - Nobody
+
+Moderador: Jose María de la Cruz Sánchez
+Escribe el acta:	Jose María de la Cruz Sánchez
+
+Orden del día:
+ 1.- Each one working on his functionality
+ 2.- 
+ 3.-
+
+================================================================================
+
+Acciones:
+
+1.- Each one working on his fucntionality
+
+Reunión celebrada el 25/11/2019 a las 09:00 en Leganés
+
+Asisten:
+  - Jose María de la Cruz Sánchez		
+  - Iosif Mondoc 
+  - Patricia Paredes Martín
+  - Francisco Atalaya Gómez
+
+Ausentes:
+  - Nobody
+
+Moderador: Jose María de la Cruz Sánchez
+Escribe el acta:	Jose María de la Cruz Sánchez
+
+Orden del día:
+ 1.- Plan how are we going to divide the optional functionalities
+ 2.- 
+ 3.-
+
+================================================================================
+
+Acciones:
+
+1.- Plan how are we going to divide optional functionalities
+
+Reunión celebrada el 26/11/2019 a las 09:00 en Leganés
+
+Asisten:
+  - Jose María de la Cruz Sánchez		
+  - Iosif Mondoc 
+  - Patricia Paredes Martín
+  - Francisco Atalaya Gómez
+
+Ausentes:
+  - Nobody
+
+Moderador: Jose María de la Cruz Sánchez
+Escribe el acta:	Jose María de la Cruz Sánchez
+
+Orden del día:
+ 1.- Finishing BMP
+ 2.- 
+ 3.-
+
+================================================================================
+
+Acciones:
+
+1.- Finishing BMP
+
+Reunión celebrada el 27/11/2019 a las 09:00 en Leganés
+
+Asisten:
+  - Jose María de la Cruz Sánchez		
+  - Iosif Mondoc 
+  - Patricia Paredes Martín
+  - Francisco Atalaya Gómez
+
+Ausentes:
+  - Nobody
+
+Moderador: Jose María de la Cruz Sánchez
+Escribe el acta:	Jose María de la Cruz Sánchez
+
+Orden del día:
+ 1.- Finishing BMP
+ 2.- 
+ 3.-
+
+================================================================================
+
+Acciones:
+
+1.- Finishing BMP
+
+Reunión celebrada el 28/11/2019 a las 09:00 en Leganés
+
+Asisten:
+  - Jose María de la Cruz Sánchez		
+  - Iosif Mondoc 
+  - Patricia Paredes Martín
+  - Francisco Atalaya Gómez
+
+Ausentes:
+  - Nobody
+
+Moderador: Jose María de la Cruz Sánchez
+Escribe el acta:	Jose María de la Cruz Sánchez
+
+Orden del día:
+ 1.- Finishing BMP
+ 2.- 
+ 3.-
+
+================================================================================
+
+Acciones:
+
+1.- Finishing BMP
+
+Reunión celebrada el 2/12/2019 a las 09:00 en Leganés
+
+Asisten:
+  - Jose María de la Cruz Sánchez		
+  - Iosif Mondoc 
+  - Patricia Paredes Martín
+  - Francisco Atalaya Gómez
+
+Ausentes:
+  - Nobody
+
+Moderador: Jose María de la Cruz Sánchez
+Escribe el acta:	Jose María de la Cruz Sánchez
+
+Orden del día:
+ 1.- Starting with concurrent version
+ 2.- 
+ 3.-
+
+================================================================================
+
+Acciones:
+
+1.- Starting with concurrent version
+
+Reunión celebrada el 3/12/2019 a las 09:00 en Leganés
+
+Asisten:
+  - Jose María de la Cruz Sánchez		
+  - Iosif Mondoc 
+  - Patricia Paredes Martín
+  - Francisco Atalaya Gómez
+
+Ausentes:
+  - Nobody
+
+Moderador: Jose María de la Cruz Sánchez
+Escribe el acta:	Jose María de la Cruz Sánchez
+
+Orden del día:
+ 1.- Working on pipes and forks
+ 2.- 
+ 3.-
+
+================================================================================
+
+Acciones:
+
+1.- Working on pipes and forks
+
+Reunión celebrada el 4/12/2019 a las 09:00 en Leganés
+
+Asisten:
+  - Jose María de la Cruz Sánchez		
+  - Iosif Mondoc 
+  - Patricia Paredes Martín
+  - Francisco Atalaya Gómez
+
+Ausentes:
+  - Nobody
+
+Moderador: Jose María de la Cruz Sánchez
+Escribe el acta:	Jose María de la Cruz Sánchez
+
+Orden del día:
+ 1.- Finishing concurrent version
+ 2.- 
+ 3.-
+
+================================================================================
+
+Acciones:
+
+1.- Finishing concurrent version
+
+Reunión celebrada el 6/12/2019 a las 09:00 en Leganés
+
+Asisten:
+  - Jose María de la Cruz Sánchez		
+  - Iosif Mondoc 
+  - Patricia Paredes Martín
+  - Francisco Atalaya Gómez
+
+Ausentes:
+  - Nobody
+
+Moderador: Jose María de la Cruz Sánchez
+Escribe el acta:	Jose María de la Cruz Sánchez
+
+Orden del día:
+ 1.- Finished concurrent version
+ 2.- 
+ 3.-
+
+================================================================================
+
+Acciones:
+
+1.- Finished concurrent version
+
+
+Reunión celebrada el 7/12/2019 a las 09:00 en Leganés
+
+Asisten:
+  - Jose María de la Cruz Sánchez		
+  - Iosif Mondoc 
+  - Patricia Paredes Martín
+  - Francisco Atalaya Gómez
+
+Ausentes:
+  - Nobody
+
+Moderador: Jose María de la Cruz Sánchez
+Escribe el acta:	Jose María de la Cruz Sánchez
+
+Orden del día:
+ 1.- Starting enhanced version
+ 2.- 
+ 3.-
+
+================================================================================
+
+Acciones:
+
+1.- Starting enhanced version
+
+Reunión celebrada el 8/11/2019 a las 09:00 en Leganés
+
+Asisten:
+  - Jose María de la Cruz Sánchez		
+  - Iosif Mondoc 
+  - Patricia Paredes Martín
+  - Francisco Atalaya Gómez
+
+Ausentes:
+  - Nobody
+
+Moderador: Jose María de la Cruz Sánchez
+Escribe el acta:	Jose María de la Cruz Sánchez
+
+Orden del día:
+ 1.- Working on enhanced version
+ 2.- 
+ 3.-
+
+================================================================================
+
+Acciones:
+
+1.- Working on enhanced version
+
+Reunión celebrada el 9/12/2019 a las 09:00 en Leganés
+
+Asisten:
+  - Jose María de la Cruz Sánchez		
+  - Iosif Mondoc 
+  - Patricia Paredes Martín
+  - Francisco Atalaya Gómez
+
+Ausentes:
+  - Nobody
+
+Moderador: Jose María de la Cruz Sánchez
+Escribe el acta:	Jose María de la Cruz Sánchez
+
+Orden del día:
+ 1.- Finishing enhanced version
+ 2.- 
+ 3.-
+
+================================================================================
+
+Acciones:
+
+1.- Finishing enhanced version
+
+Reunión celebrada el 10/12/2019 a las 09:00 en Leganés
+
+Asisten:
+  - Jose María de la Cruz Sánchez		
+  - Iosif Mondoc 
+  - Patricia Paredes Martín
+  - Francisco Atalaya Gómez
+
+Ausentes:
+  - Nobody
+
+Moderador: Jose María de la Cruz Sánchez
+Escribe el acta:	Jose María de la Cruz Sánchez
+
+Orden del día:
+ 1.- Comment everything
+ 2.- 
+ 3.-
+
+================================================================================
+
+Acciones:
+
+1.- Comment everything
